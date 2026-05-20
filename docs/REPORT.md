@@ -73,7 +73,7 @@ _300–500 kata. Ceritakan:_
 | Timothy Antonio |  | 100 |
 | Novandy amcals| | 100 |
 | Haris Nurzaman |  | 85 |
-| Joanthan Tjendra Kusnadi |  | | 90 |
+| Joanthan Tjendra Kusnadi |   | 90 |
 
 _Total harus 100%._
 
