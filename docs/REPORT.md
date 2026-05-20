@@ -6,10 +6,11 @@
 
 - **Nama Kelompok:** _isi di sini_
 - **Anggota:**
-  1. _Nama — NIM — varian yang dikerjakan_
-  2. _Nama — NIM — varian yang dikerjakan_
-  3. _Nama — NIM — varian yang dikerjakan_
-  4. _Nama — NIM — varian yang dikerjakan_
+  1. Timothy Antonio - 32230137 - Single Layer
+  2. Valwa Giraldy - 
+  3. Charlie
+  4. Jonathan Tjendra -
+  5. Haris Nurzahman - 
 
 ---
 
