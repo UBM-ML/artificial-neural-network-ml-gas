@@ -4,7 +4,7 @@
 
 ## Identitas Kelompok
 
-- **Nama Kelompok:** _isi di sini_
+- **Nama Kelompok:** ML Gas
 - **Anggota:**
   1. Timothy Antonio - 32230137 - Single Layer
   2. Valwa Giraldy - 
