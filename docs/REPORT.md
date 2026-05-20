@@ -58,10 +58,10 @@ Walaupun demikian, Tanh tetap memberikan hasil yang baik dan lebih stabil diband
 ## 3. Refleksi Proses Kerja Kelompok
 
 _300–500 kata. Ceritakan:_
-- _Bagaimana kelompok membagi tugas?_
-- _Kesulitan apa yang muncul (teknis maupun non-teknis)?_
-- _Bagaimana cara mengatasinya?_
-- _Pelajaran apa yang bisa dibawa ke proyek ML berikutnya?_
+- _Bagaimana kelompok membagi tugas?_ Pembagian kelompok ini dipilih berdasarkan kemauann anggota supaya adil dan bertanggung jawab atas tugasnya masing-masing
+- _Kesulitan apa yang muncul (teknis maupun non-teknis)?_ Dibeberapa tugas ada algoritma yang masih kurang dipahami dan begitu juga dalam proses pengerjaan seperti bagian membangun model, melatih model masih kurang dipahami
+- _Bagaimana cara mengatasinya?_ untuk solusi untuk mengatasi permasalahan bagi yang belum memahami cara melatih model dan membangun model kita mmemerlukan bantuan dari "Gemini AI" yang menjelaskan step bystep nya
+- _Pelajaran apa yang bisa dibawa ke proyek ML berikutnya?_ Pelajaran ini dapat diharapakan bisa membawa ke dunia nyata 
 
 ---
 
@@ -69,10 +69,11 @@ _300–500 kata. Ceritakan:_
 
 | Anggota | Kontribusi Konkret | % Effort |
 |---|---|---|
-| _Nama 1_ | _isi_ | _isi_ |
-| _Nama 2_ | _isi_ | _isi_ |
-| _Nama 3_ | _isi_ | _isi_ |
-| _Nama 4_ | _isi_ | _isi_ |
+| Valwa Giraldy|  | 100 |
+| Timothy Antonio |  | 100 |
+| Novandy amcals| | 100 |
+| Haris Nurzaman |  | 85 |
+| Joanthan Tjendra Kusnadi |  | | 90 |
 
 _Total harus 100%._
 
